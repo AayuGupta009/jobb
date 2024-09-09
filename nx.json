@@ -15,7 +15,6 @@
     ],
     "sharedGlobals": ["{workspaceRoot}/.github/workflows/ci.yml"]
   },
-  "nxCloudAccessToken": "ZGEzZDZlYzgtNTIzNy00ODMzLTgyYWQtMWNkYjhmOGI1NWI2fHJlYWQtd3JpdGU=",
   "plugins": [
     {
       "plugin": "@nx/webpack/plugin",
